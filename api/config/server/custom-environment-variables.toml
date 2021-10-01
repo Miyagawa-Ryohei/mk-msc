@@ -1,0 +1,3 @@
+[server]
+    port="MSC_SERVER_PORT"
+    contents_root="MSC_SERVER_CONTENTS_ROOT"
